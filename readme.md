@@ -1,6 +1,6 @@
 # 🚀 Express Starter Kit with Prisma 
 
-A production-ready Node.js/Express backend starter kit with PostgreSQL, Prisma ORM, and email verification. Designed to kickstart your next project with multiple frontend framework support (React, Next.js static, Next.js SSR).
+A production-ready Node.js/Express backend starter kit with PostgreSQL, Prisma ORM. Designed to kickstart your next project with multiple frontend framework support (React, Next.js static, Next.js SSR).
 
 ## ✨ Features
 
