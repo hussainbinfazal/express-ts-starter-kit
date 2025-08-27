@@ -6,7 +6,6 @@ A production-ready Node.js/Express backend starter kit with PostgreSQL, Prisma O
 
 - 🌐 Express.js API server
 - 🐘 PostgreSQL database with Prisma ORM
-- 📧 Email verification system
 - 🔐 CORS enabled
 - 🍪 Cookie-based authentication support
 - ⚡ Multiple frontend deployment options
